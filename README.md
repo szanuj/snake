@@ -4,7 +4,7 @@ An overly extensive C# console application which allows you to play snake.
 [PL]  
 Wciel się w niebieskiego węża. Zmieniaj kierunek klawiszami strzałek. Zbieraj czerwone punkty i rośnij, aż uderzysz w ścianę lub w swój własny ogon.  
 Możesz modyfikować plik "Game.ini", w katalogu gry, wedle własnych preferencji - zmieniać wielkość okna, długość i szybkość węża i inne - tylko wszystko z umiarem :)  
-Działanie poszczególnych elementów w plikach źródłowych jest opisane komentarzami.  
+Działanie poszczególnych elementów w plikach źródłowych zostało opisane komentarzami.  
 
 
 
