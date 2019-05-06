@@ -1,0 +1,11 @@
+E:\Janek\Programowanie\Projekty\C#\Snake\Snake\bin\Debug\Snake.exe.config
+E:\Janek\Programowanie\Projekty\C#\Snake\Snake\bin\Debug\Snake.exe.manifest
+E:\Janek\Programowanie\Projekty\C#\Snake\Snake\bin\Debug\Snake.application
+E:\Janek\Programowanie\Projekty\C#\Snake\Snake\bin\Debug\Snake.exe
+E:\Janek\Programowanie\Projekty\C#\Snake\Snake\bin\Debug\Snake.pdb
+E:\Janek\Programowanie\Projekty\C#\Snake\Snake\obj\Debug\SnakeGame.csproj.CoreCompileInputs.cache
+E:\Janek\Programowanie\Projekty\C#\Snake\Snake\obj\Debug\Snake.TrustInfo.xml
+E:\Janek\Programowanie\Projekty\C#\Snake\Snake\obj\Debug\Snake.exe.manifest
+E:\Janek\Programowanie\Projekty\C#\Snake\Snake\obj\Debug\Snake.application
+E:\Janek\Programowanie\Projekty\C#\Snake\Snake\obj\Debug\Snake.exe
+E:\Janek\Programowanie\Projekty\C#\Snake\Snake\obj\Debug\Snake.pdb
